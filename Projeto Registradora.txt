@@ -1,0 +1,13 @@
+﻿Compilação iniciada...
+1>------ Compilação iniciada: Projeto: Projeto Registradora, Configuração: Debug Any CPU ------
+1>C:\Users\samuel.palbuquerque\source\repos\Projeto Registradora\Projeto Registradora\Program.cs(13,17,13,25): warning CS0168: A variável "Cadastro" está declarada, mas nunca é usada
+1>C:\Users\samuel.palbuquerque\source\repos\Projeto Registradora\Projeto Registradora\Program.cs(13,27,13,32): warning CS0168: A variável "Venda" está declarada, mas nunca é usada
+1>C:\Users\samuel.palbuquerque\source\repos\Projeto Registradora\Projeto Registradora\Program.cs(13,34,13,43): warning CS0168: A variável "Relatorio" está declarada, mas nunca é usada
+1>C:\Users\samuel.palbuquerque\source\repos\Projeto Registradora\Projeto Registradora\Program.cs(13,45,13,50): warning CS0168: A variável "Preço" está declarada, mas nunca é usada
+1>C:\Users\samuel.palbuquerque\source\repos\Projeto Registradora\Projeto Registradora\Program.cs(13,52,13,56): warning CS0168: A variável "Peso" está declarada, mas nunca é usada
+1>C:\Users\samuel.palbuquerque\source\repos\Projeto Registradora\Projeto Registradora\Program.cs(13,58,13,65): warning CS0168: A variável "Tamanho" está declarada, mas nunca é usada
+1>C:\Users\samuel.palbuquerque\source\repos\Projeto Registradora\Projeto Registradora\Program.cs(13,67,13,77): warning CS0168: A variável "Quantidade" está declarada, mas nunca é usada
+1>C:\Users\samuel.palbuquerque\source\repos\Projeto Registradora\Projeto Registradora\Program.cs(13,79,13,81): warning CS0168: A variável "ID" está declarada, mas nunca é usada
+1>  Projeto Registradora -> C:\Users\samuel.palbuquerque\source\repos\Projeto Registradora\Projeto Registradora\bin\Debug\Projeto Registradora.exe
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação começou em 11:17 e levou 00,213 segundos ==========
