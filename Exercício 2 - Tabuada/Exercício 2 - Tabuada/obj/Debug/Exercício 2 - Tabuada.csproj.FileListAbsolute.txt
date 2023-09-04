@@ -1,0 +1,7 @@
+C:\Users\samuel.palbuquerque\source\repos\Exercício 2 - Tabuada\Exercício 2 - Tabuada\bin\Debug\Exercício 2 - Tabuada.exe.config
+C:\Users\samuel.palbuquerque\source\repos\Exercício 2 - Tabuada\Exercício 2 - Tabuada\bin\Debug\Exercício 2 - Tabuada.exe
+C:\Users\samuel.palbuquerque\source\repos\Exercício 2 - Tabuada\Exercício 2 - Tabuada\bin\Debug\Exercício 2 - Tabuada.pdb
+C:\Users\samuel.palbuquerque\source\repos\Exercício 2 - Tabuada\Exercício 2 - Tabuada\obj\Debug\Exercício 2 - Tabuada.csproj.AssemblyReference.cache
+C:\Users\samuel.palbuquerque\source\repos\Exercício 2 - Tabuada\Exercício 2 - Tabuada\obj\Debug\Exercício 2 - Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\samuel.palbuquerque\source\repos\Exercício 2 - Tabuada\Exercício 2 - Tabuada\obj\Debug\Exercício 2 - Tabuada.exe
+C:\Users\samuel.palbuquerque\source\repos\Exercício 2 - Tabuada\Exercício 2 - Tabuada\obj\Debug\Exercício 2 - Tabuada.pdb

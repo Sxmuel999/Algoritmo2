@@ -1,0 +1,7 @@
+C:\Users\samuel.palbuquerque\source\repos\Exercício 4 - Adivinhar o Número\Exercício 4 - Adivinhar o Número\bin\Debug\Exercício 4 - Adivinhar o Número.exe.config
+C:\Users\samuel.palbuquerque\source\repos\Exercício 4 - Adivinhar o Número\Exercício 4 - Adivinhar o Número\bin\Debug\Exercício 4 - Adivinhar o Número.exe
+C:\Users\samuel.palbuquerque\source\repos\Exercício 4 - Adivinhar o Número\Exercício 4 - Adivinhar o Número\bin\Debug\Exercício 4 - Adivinhar o Número.pdb
+C:\Users\samuel.palbuquerque\source\repos\Exercício 4 - Adivinhar o Número\Exercício 4 - Adivinhar o Número\obj\Debug\Exercício 4 - Adivinhar o Número.csproj.AssemblyReference.cache
+C:\Users\samuel.palbuquerque\source\repos\Exercício 4 - Adivinhar o Número\Exercício 4 - Adivinhar o Número\obj\Debug\Exercício 4 - Adivinhar o Número.csproj.CoreCompileInputs.cache
+C:\Users\samuel.palbuquerque\source\repos\Exercício 4 - Adivinhar o Número\Exercício 4 - Adivinhar o Número\obj\Debug\Exercício 4 - Adivinhar o Número.exe
+C:\Users\samuel.palbuquerque\source\repos\Exercício 4 - Adivinhar o Número\Exercício 4 - Adivinhar o Número\obj\Debug\Exercício 4 - Adivinhar o Número.pdb

@@ -1,0 +1,7 @@
+C:\Users\samuel.palbuquerque\source\repos\Exercício - Soma dos Números\Exercício - Soma dos Números\bin\Debug\Exercício - Soma dos Números.exe.config
+C:\Users\samuel.palbuquerque\source\repos\Exercício - Soma dos Números\Exercício - Soma dos Números\bin\Debug\Exercício - Soma dos Números.exe
+C:\Users\samuel.palbuquerque\source\repos\Exercício - Soma dos Números\Exercício - Soma dos Números\bin\Debug\Exercício - Soma dos Números.pdb
+C:\Users\samuel.palbuquerque\source\repos\Exercício - Soma dos Números\Exercício - Soma dos Números\obj\Debug\Exercício - Soma dos Números.csproj.AssemblyReference.cache
+C:\Users\samuel.palbuquerque\source\repos\Exercício - Soma dos Números\Exercício - Soma dos Números\obj\Debug\Exercício - Soma dos Números.csproj.CoreCompileInputs.cache
+C:\Users\samuel.palbuquerque\source\repos\Exercício - Soma dos Números\Exercício - Soma dos Números\obj\Debug\Exercício - Soma dos Números.exe
+C:\Users\samuel.palbuquerque\source\repos\Exercício - Soma dos Números\Exercício - Soma dos Números\obj\Debug\Exercício - Soma dos Números.pdb
