@@ -5,3 +5,10 @@ C:\Users\samuel.palbuquerque\source\repos\Projeto Registradora\Projeto Registrad
 C:\Users\samuel.palbuquerque\source\repos\Projeto Registradora\Projeto Registradora\obj\Debug\Projeto Registradora.csproj.CoreCompileInputs.cache
 C:\Users\samuel.palbuquerque\source\repos\Projeto Registradora\Projeto Registradora\obj\Debug\Projeto Registradora.exe
 C:\Users\samuel.palbuquerque\source\repos\Projeto Registradora\Projeto Registradora\obj\Debug\Projeto Registradora.pdb
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Projeto Registradora\Projeto Registradora\bin\Debug\Projeto Registradora.exe.config
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Projeto Registradora\Projeto Registradora\bin\Debug\Projeto Registradora.exe
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Projeto Registradora\Projeto Registradora\bin\Debug\Projeto Registradora.pdb
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Projeto Registradora\Projeto Registradora\obj\Debug\Projeto Registradora.csproj.AssemblyReference.cache
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Projeto Registradora\Projeto Registradora\obj\Debug\Projeto Registradora.csproj.CoreCompileInputs.cache
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Projeto Registradora\Projeto Registradora\obj\Debug\Projeto Registradora.exe
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Projeto Registradora\Projeto Registradora\obj\Debug\Projeto Registradora.pdb
