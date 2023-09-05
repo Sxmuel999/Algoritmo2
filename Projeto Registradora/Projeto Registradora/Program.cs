@@ -64,7 +64,6 @@ namespace Projeto_Registradora
                     Console.WriteLine("Produto 2: " + nomeProduto2);
                     Console.WriteLine("Produto 3: " + nomeProduto3);
                     Console.ReadLine();
-                    if (nomeProduto1)
                     {
                         Console.WriteLine("Você escolheu comprar: " + nomeProduto1);
                     }
