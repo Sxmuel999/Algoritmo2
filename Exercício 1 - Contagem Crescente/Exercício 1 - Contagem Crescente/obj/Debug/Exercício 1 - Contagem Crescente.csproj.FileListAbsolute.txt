@@ -1,0 +1,7 @@
+C:\Users\samuel.palbuquerque\source\repos\Exercício 1 - Contagem Crescente\Exercício 1 - Contagem Crescente\bin\Debug\Exercício 1 - Contagem Crescente.exe.config
+C:\Users\samuel.palbuquerque\source\repos\Exercício 1 - Contagem Crescente\Exercício 1 - Contagem Crescente\bin\Debug\Exercício 1 - Contagem Crescente.exe
+C:\Users\samuel.palbuquerque\source\repos\Exercício 1 - Contagem Crescente\Exercício 1 - Contagem Crescente\bin\Debug\Exercício 1 - Contagem Crescente.pdb
+C:\Users\samuel.palbuquerque\source\repos\Exercício 1 - Contagem Crescente\Exercício 1 - Contagem Crescente\obj\Debug\Exercício 1 - Contagem Crescente.csproj.AssemblyReference.cache
+C:\Users\samuel.palbuquerque\source\repos\Exercício 1 - Contagem Crescente\Exercício 1 - Contagem Crescente\obj\Debug\Exercício 1 - Contagem Crescente.csproj.CoreCompileInputs.cache
+C:\Users\samuel.palbuquerque\source\repos\Exercício 1 - Contagem Crescente\Exercício 1 - Contagem Crescente\obj\Debug\Exercício 1 - Contagem Crescente.exe
+C:\Users\samuel.palbuquerque\source\repos\Exercício 1 - Contagem Crescente\Exercício 1 - Contagem Crescente\obj\Debug\Exercício 1 - Contagem Crescente.pdb
