@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.Eventing.Reader;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,6 +16,7 @@ namespace Projeto_Registradora
             string nomeProduto1 = "", nomeProduto2 = "", nomeProduto3 = "";
             float valor1 = 0, valor2 = 0, valor3 = 0;
             int quantidade1 = 0, quantidade2 = 0, quantidade3 = 0;
+            float produtoVendido, troco;
             while (loop.ToUpper() == "S")
             {
                 Console.WriteLine(" __         ______      _____   ______         _______    ______          ______   ________  __    __           _____   ______    ______  \r\n/  |       /      \\    /     | /      \\       /       \\  /      \\        /      \\ /        |/  |  /  |         /     | /      \\  /      \\ \r\n$$ |      /$$$$$$  |   $$$$$ |/$$$$$$  |      $$$$$$$  |/$$$$$$  |      /$$$$$$  |$$$$$$$$/ $$ |  $$ |         $$$$$ |/$$$$$$  |/$$$$$$  |\r\n$$ |      $$ |  $$ |      $$ |$$ |__$$ |      $$ |  $$ |$$ |  $$ |      $$ \\__$$/ $$ |__    $$ |  $$ |            $$ |$$ |__$$ |$$ |  $$ |\r\n$$ |      $$ |  $$ | __   $$ |$$    $$ |      $$ |  $$ |$$ |  $$ |      $$      \\ $$    |   $$ |  $$ |       __   $$ |$$    $$ |$$ |  $$ |\r\n$$ |      $$ |  $$ |/  |  $$ |$$$$$$$$ |      $$ |  $$ |$$ |  $$ |       $$$$$$  |$$$$$/    $$ |  $$ |      /  |  $$ |$$$$$$$$ |$$ |  $$ |\r\n$$ |_____ $$ \\__$$ |$$ \\__$$ |$$ |  $$ |      $$ |__$$ |$$ \\__$$ |      /  \\__$$ |$$ |_____ $$ \\__$$ |      $$ \\__$$ |$$ |  $$ |$$ \\__$$ |\r\n$$       |$$    $$/ $$    $$/ $$ |  $$ |      $$    $$/ $$    $$/       $$    $$/ $$       |$$    $$/       $$    $$/ $$ |  $$ |$$    $$/ \r\n$$$$$$$$/  $$$$$$/   $$$$$$/  $$/   $$/       $$$$$$$/   $$$$$$/         $$$$$$/  $$$$$$$$/  $$$$$$/         $$$$$$/  $$/   $$/  $$$$$$/  \r\n                                                                                                                                          \r\n                                                                                                                                          \r\n                                                                                                                                          ");
@@ -38,16 +40,16 @@ namespace Projeto_Registradora
                     Console.Write("Nome do 2° Produto: ");
                     nomeProduto2 = Console.ReadLine();
  
-                    Console.Write("Digite a quantidade em estoque do" + nomeProduto2 + ": ");
+                    Console.Write("Digite a quantidade em estoque do " + nomeProduto2 + ": ");
                     quantidade2 = int.Parse(Console.ReadLine());
 
-                    Console.Write("Digite o valor do " + nomeProduto2 + ": ");
+                    Console.Write("Digite o valor do " + nomeProduto2 + " : ");
                     valor2 = float.Parse(Console.ReadLine());
 
                     Console.Write("Nome do 3° Produto: ");
                     nomeProduto3 = Console.ReadLine();
 
-                    Console.Write("Digite a quantidade em estoque do" + nomeProduto3 + ": ");
+                    Console.Write("Digite a quantidade em estoque do " + "" + nomeProduto3 + ": ");
                     quantidade3 = int.Parse(Console.ReadLine());
 
                     Console.Write("Digite o valor do " + nomeProduto3 + ": ");
@@ -63,19 +65,27 @@ namespace Projeto_Registradora
                     Console.WriteLine("Produto 1: " + nomeProduto1);
                     Console.WriteLine("Produto 2: " + nomeProduto2);
                     Console.WriteLine("Produto 3: " + nomeProduto3);
-                    Console.ReadLine();
+
+
+                    produtoVendido = float.Parse(Console.ReadLine());
+
+
+                    if (produtoVendido == 1)
                     {
-                        Console.WriteLine("Você escolheu comprar: " + nomeProduto1);
+                        Console.WriteLine("Você escolheu comprar: " + nomeProduto1 + " - Valor: " + valor1 + " - Estoque: " + quantidade1);
+                        Console.WriteLine("Quantos você deseja comprar?");
                     }
 
 
-
-
-
-
-
-
-                    Console.WriteLine("Você escolheu vender um PRODUTO");
+                    else if (produtoVendido == 2)
+                    {
+                        Console.WriteLine("Você escolheu comprar: " + nomeProduto2 + " - Valor: " + valor2 + " - Estoque: " + quantidade2);
+                    }
+          
+                    else if (produtoVendido == 3)
+                    {
+                        Console.WriteLine("Você escolheu comprar: " + nomeProduto3 + " - Valor: " + valor3 + " - Estoque: " + quantidade3);
+                    }
                 }
                 else if (menu == 3)
                 {
@@ -90,7 +100,7 @@ namespace Projeto_Registradora
                     Console.Write("Pressione Enter Para Finalizar...");
                     Console.ReadKey();
                 }
-                Console.WriteLine("Deseja Continuar? ");
+                Console.WriteLine("Voltar ao menu? (S/N) ");
                 loop = Console.ReadLine();
                 Console.Clear();
             }
