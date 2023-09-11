@@ -1,0 +1,7 @@
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Tipos Lacos\Tipos Lacos\bin\Debug\Tipos Lacos.exe.config
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Tipos Lacos\Tipos Lacos\bin\Debug\Tipos Lacos.exe
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Tipos Lacos\Tipos Lacos\bin\Debug\Tipos Lacos.pdb
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Tipos Lacos\Tipos Lacos\obj\Debug\Tipos Lacos.csproj.AssemblyReference.cache
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Tipos Lacos\Tipos Lacos\obj\Debug\Tipos Lacos.csproj.CoreCompileInputs.cache
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Tipos Lacos\Tipos Lacos\obj\Debug\Tipos Lacos.exe
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Tipos Lacos\Tipos Lacos\obj\Debug\Tipos Lacos.pdb

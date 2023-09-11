@@ -1,0 +1,7 @@
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Numeros pares no intervalo\Numeros pares no intervalo\bin\Debug\Numeros pares no intervalo.exe.config
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Numeros pares no intervalo\Numeros pares no intervalo\bin\Debug\Numeros pares no intervalo.exe
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Numeros pares no intervalo\Numeros pares no intervalo\bin\Debug\Numeros pares no intervalo.pdb
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Numeros pares no intervalo\Numeros pares no intervalo\obj\Debug\Numeros pares no intervalo.csproj.AssemblyReference.cache
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Numeros pares no intervalo\Numeros pares no intervalo\obj\Debug\Numeros pares no intervalo.csproj.CoreCompileInputs.cache
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Numeros pares no intervalo\Numeros pares no intervalo\obj\Debug\Numeros pares no intervalo.exe
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Numeros pares no intervalo\Numeros pares no intervalo\obj\Debug\Numeros pares no intervalo.pdb
