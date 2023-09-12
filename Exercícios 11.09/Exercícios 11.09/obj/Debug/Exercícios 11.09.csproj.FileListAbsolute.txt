@@ -1,0 +1,7 @@
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Exercícios 11.09\Exercícios 11.09\bin\Debug\Exercícios 11.09.exe.config
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Exercícios 11.09\Exercícios 11.09\bin\Debug\Exercícios 11.09.exe
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Exercícios 11.09\Exercícios 11.09\bin\Debug\Exercícios 11.09.pdb
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Exercícios 11.09\Exercícios 11.09\obj\Debug\Exercícios 11.09.csproj.AssemblyReference.cache
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Exercícios 11.09\Exercícios 11.09\obj\Debug\Exercícios 11.09.csproj.CoreCompileInputs.cache
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Exercícios 11.09\Exercícios 11.09\obj\Debug\Exercícios 11.09.exe
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Exercícios 11.09\Exercícios 11.09\obj\Debug\Exercícios 11.09.pdb
