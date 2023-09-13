@@ -1,0 +1,7 @@
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Array\Array\bin\Debug\Array.exe.config
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Array\Array\bin\Debug\Array.exe
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Array\Array\bin\Debug\Array.pdb
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Array\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Array\Array\obj\Debug\Array.exe
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Array\Array\obj\Debug\Array.pdb
