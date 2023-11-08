@@ -1,0 +1,10 @@
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Conexões\Conexões\bin\Debug\Conexões.exe.config
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Conexões\Conexões\bin\Debug\Conexões.exe
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Conexões\Conexões\bin\Debug\Conexões.pdb
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Conexões\Conexões\obj\Debug\Conexões.csproj.AssemblyReference.cache
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Conexões\Conexões\obj\Debug\Conexões.Form1.resources
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Conexões\Conexões\obj\Debug\Conexões.Properties.Resources.resources
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Conexões\Conexões\obj\Debug\Conexões.csproj.GenerateResource.cache
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Conexões\Conexões\obj\Debug\Conexões.csproj.CoreCompileInputs.cache
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Conexões\Conexões\obj\Debug\Conexões.exe
+C:\Users\samuel.palbuquerque\source\repos\Algoritmo2\Conexões\Conexões\obj\Debug\Conexões.pdb
